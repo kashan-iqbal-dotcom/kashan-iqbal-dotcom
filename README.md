@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kashan-iqbal-dotcom
-- 👀 I’m interested in Devlopmentd  
+- 👀 I’m interested in Devlopment
 - 🌱 I’m currently learning Backend ,AI ,ML and more languages
 - 📫 How to reach me kashoiqbal51@gmail.com
 - 😄 Pronouns: Sir Kashan Iqbal Bashir
